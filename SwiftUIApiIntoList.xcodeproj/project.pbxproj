@@ -14,6 +14,7 @@
 		8CEA2DC4284CD50400C6AEEF /* SwiftUIApiIntoListTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CEA2DC3284CD50400C6AEEF /* SwiftUIApiIntoListTests.swift */; };
 		8CEA2DCE284CD50400C6AEEF /* SwiftUIApiIntoListUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CEA2DCD284CD50400C6AEEF /* SwiftUIApiIntoListUITests.swift */; };
 		8CEA2DD0284CD50400C6AEEF /* SwiftUIApiIntoListUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CEA2DCF284CD50400C6AEEF /* SwiftUIApiIntoListUITestsLaunchTests.swift */; };
+		8CEA2DDD284E426200C6AEEF /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CEA2DDC284E426200C6AEEF /* ViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		8CEA2DC9284CD50400C6AEEF /* SwiftUIApiIntoListUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUIApiIntoListUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8CEA2DCD284CD50400C6AEEF /* SwiftUIApiIntoListUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIApiIntoListUITests.swift; sourceTree = "<group>"; };
 		8CEA2DCF284CD50400C6AEEF /* SwiftUIApiIntoListUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIApiIntoListUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		8CEA2DDC284E426200C6AEEF /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				8CEA2DB4284CD50200C6AEEF /* ContentView.swift */,
 				8CEA2DB6284CD50400C6AEEF /* Assets.xcassets */,
 				8CEA2DB8284CD50400C6AEEF /* Preview Content */,
+				8CEA2DDC284E426200C6AEEF /* ViewModel.swift */,
 			);
 			path = SwiftUIApiIntoList;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8CEA2DB5284CD50200C6AEEF /* ContentView.swift in Sources */,
+				8CEA2DDD284E426200C6AEEF /* ViewModel.swift in Sources */,
 				8CEA2DB3284CD50200C6AEEF /* SwiftUIApiIntoListApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
